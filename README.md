@@ -34,4 +34,4 @@ Screenshots of the dashboard are included in the `screenshots` folder.
 
 ## Author
 Argharaj Manna
-MCA Student
+
